@@ -1,5 +1,5 @@
 name: "Tesla HTTP Proxy Kuba"
-version: "4.O.0"
+version: "4.0.0"
 slug: "tesla_http_proxy"
 description: "Proxy requests for Tesla Fleet API"
 url: "https://github.com/kubacizek/tesla-http-proxy-addon/tree/main/tesla_http_proxy"
@@ -37,4 +37,4 @@ hassio_api: true
 stage: experimental
 ports:
   443/tcp: 4430
-image: "ghcr.io/llamafilm/tesla_http_proxy_{arch}"
+image: "ghcr.io/kubacizek/tesla_http_proxy_{arch}"
