@@ -1,8 +1,8 @@
-name: "Tesla HTTP Proxy"
-version: "2.2.8"
+name: "Tesla HTTP Proxy Kuba"
+version: "4.O.0"
 slug: "tesla_http_proxy"
 description: "Proxy requests for Tesla Fleet API"
-url: "https://github.com/llamafilm/tesla-http-proxy-addon/tree/main/tesla_http_proxy"
+url: "https://github.com/kubacizek/tesla-http-proxy-addon/tree/main/tesla_http_proxy"
 arch:
   - armhf
   - armv7
